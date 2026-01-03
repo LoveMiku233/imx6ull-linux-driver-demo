@@ -1,0 +1,15 @@
+*.o
+*.ko
+*.mod.c
+*.order
+*.symvers
+*.cmd
+.tmp_versions/
+
+Module.markers
+modules.builtin
+modules.builtin.modinfo
+
+.vscode/
+*.swp
+*.bak
